@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "tsc && eslint \"src/**/*.{js,ts,tsx}\" --quiet --fix",
+    "lint": "next lint",
     "prepare": "husky install"
   },
   "dependencies": {
