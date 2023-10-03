@@ -1,9 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[` 1`] = `undefined`;
-
 exports[`<Main /> should render the heading 1`] = `
-<main>
+<main
+  class="sc-beyTiQ kaIBlV"
+>
   <h1>
     React Avançado
   </h1>
